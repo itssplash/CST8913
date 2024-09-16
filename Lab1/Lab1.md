@@ -60,7 +60,7 @@
 
 # 6.	What are the main decision criteria for the chosen company?
 • **Performance & Scalability:** The bank required the ability to scale up the number of compute resources up to 80,000 or enhance the speed of performing the risk calculations which were critical.<br>
-• **Cost Efficiency:** 30% operational cost savings because of the use of Azure Spot VMs as well as the Hybrid Benefit made Azure look good financially.
+• **Cost Efficiency:** 30% operational cost savings because of the use of Azure Spot VMs as well as the Hybrid Benefit made Azure look good financially.<br>
 • **Flexibility:** Thanks to cloud-native tools from Azure, BMO was able to process many more jobs simultaneously in a shorter time, and merge with the existing systems without any transforms.<br>
 • **Resilience & Compliance:** The ability to remain multi cloud was critical for regulatory purposes since the BMO did not want to be locked to a single cloud provider.<br>
 • **Security & Risk Management:** Significant security improvements and an ability to conducting stress tests at the global level in near real time were the rationale for BMO’s Azure adoption.<br>
