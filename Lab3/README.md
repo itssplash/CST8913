@@ -1,4 +1,4 @@
-# Cloud Migration Lab
+# Lab3-Cloud Migration and Cloud Adoption – A Comparative Study of PaaS, IaaS, and SaaS Across Cloud Providers
 
 ## Purpose
 The purpose of this lab is to provide a conceptual understanding of cloud migration strategies. It helps to analyze and architect solutions that transition from on-premises infrastructure to the cloud by exploring various service models (PaaS, IaaS, and SaaS). 
