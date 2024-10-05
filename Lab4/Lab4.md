@@ -41,8 +41,8 @@ consumes, which means you are not paying for a server that's just not
 in use. Also, managed services inside RDS decrease the effort one
 needs to invest into database management and maintenance.
 
-> **High Availability:** With the Multi-AZ replication in place, RDS
-> becomes highly redundant, hence one can rest assured about the
-> availability of their database in case of an outage in one
-> Availability Zone.
+**High Availability:** With the Multi-AZ replication in place, RDS
+becomes highly redundant, hence one can rest assured about the
+availability of their database in case of an outage in one
+Availability Zone.
 
