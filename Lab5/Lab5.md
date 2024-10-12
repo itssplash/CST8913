@@ -4,7 +4,7 @@
 ![HLD - Lab5](https://github.com/user-attachments/assets/c6c24056-5d03-4ca4-9c9a-0435435b0a11)
 
 
-**Target Cloud Architecture:**
+# Target Cloud Architecture:
 
 **AWS Services and Roles**
 
@@ -29,7 +29,7 @@
 
 - It ensures the networking part, distributing them between public and private subnets for security and isolation.
 
-**Target Architecture: Scalability, Availability, and Disaster Recovery**
+# Target Architecture: Scalability, Availability, and Disaster Recovery
 
 **Scalability**
 
@@ -50,10 +50,7 @@
 
   
 
-**Migration Process Overview**
-
-* * * * *
-
+# Migration Process Overview
 
 **Phase 1: Pre-Migration Planning**
 
